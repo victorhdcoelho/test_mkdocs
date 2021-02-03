@@ -1,0 +1,6 @@
+site_name: eps_test
+theme: readthedocs
+nav:
+    - Home: index.md
+    - 'Dailies':
+        - '03-02-2021': 'dailies/03-02-2021.md'
